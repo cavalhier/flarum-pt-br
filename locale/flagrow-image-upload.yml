@@ -3,7 +3,7 @@ flagrow-image-upload:
         buttons:
             attach: Enviar
         states:
-            loading: A enviar...
+            loading: Enviando
             success: Enviado
             error: Erro
     admin:
@@ -21,13 +21,13 @@ flagrow-image-upload:
                 title: Configurações do Imgur
                 client_id: Client ID
         buttons:
-            save: Guardar configurações
+            save: Salvar configurações
         help_texts:
             description: >
                 Configure serviços de upload de imagem e suas preferencias.
             upload_method: >
                 Selecione o metodo que você deseja usar para enviar suas imagens.
             resize: >
-                Escolha se quer redimensionar as imagens antes que as envie.
-                Escolha a altura e largura maxima, em pixels.
+                Escolha se você quer redimensionar as imagens antes que as envie.
+                Você pode escolher a altura e largura maxima, em pixels.
                 O processo de redimensionamento mantém as proporções da imagem.

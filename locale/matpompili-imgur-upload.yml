@@ -7,6 +7,6 @@ matpompili-imgur-upload:
     maxImageHeight: Altura Max de imagem
   forum:
     attach: Anexar
-    loading: A enviar...
+    loading: Enviando...
     loaded: Enviado!
     error: Erro
