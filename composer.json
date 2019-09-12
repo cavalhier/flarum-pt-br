@@ -4,7 +4,9 @@
     "description": "Portuguese language pack.",
     "keywords": ["locale"],
     "license": "MIT",
-    
+    "require": {
+        "flarum/core": ""^0.1.0"
+    },
 	"authors": [
         {
             "name": "Gabriel Ramos",
