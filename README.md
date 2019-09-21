@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-composer require cavalhier/flarum-pt-br
+composer require cavalhier/flarum-pt-br @dev
 php flarum cache:clear
 ```
 
